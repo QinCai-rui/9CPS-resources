@@ -1,0 +1,4 @@
+Options +Indexes
+IndexOptions FancyIndexing HTMLTable IconsAreLinks
+HeaderName HEADER.html
+ReadmeName FOOTER.html
